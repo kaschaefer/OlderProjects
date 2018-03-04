@@ -1,0 +1,29 @@
+Mikaela Schaefer
+CIS 330
+Project 4C Findings Report
+
+
+Findings
+	250x250    Blue:	 0.000614 seconds
+		   Red: 	 0.000646 seconds
+		   Blender: 	 0.001496 seconds
+
+	500x500    Blue:	 0.001667 seconds
+		   Red: 	 0.001596 seconds
+		   Blender: 	 0.003947 seconds
+
+	1000x1000  Blue:	 0.006192 seconds
+		   Red: 	 0.008067 seconds
+		   Blender: 	 0.014012 seconds
+
+	2000x2000  Blue:	 0.027089 seconds
+		   Red: 	 0.031564 seconds
+		   Blender: 	 0.059576 seconds
+
+Report
+	I noticed in my timings that with each successive increase of size led to a corresponding increase in the factor by which the time increased. For instance,
+going from size 250 to 500 showed a 2.6 times increase in the time, but going from 500 to 1000 showed a 3.5 times increase in time. Going from 1000 to 2000 showed a
+4.25 times increase in the time. I think that means that my program is exponential in time, but I'm honestly not really sure. I also noticed that executing the Red color
+source image took longer than the Blue three out of four times, but have no explanation as to why that might be the case. The final thing I noticed was that execution of
+the Blender execution took a little longer than the combination of the blue and red executions. This makes sense because I'm accessing a similar amount of information, but
+doing a little more work on the data.

@@ -1,0 +1,48 @@
+Entered program from xueranm/
+
+TBConcat: about to update input1
+TBConcat: about to update input1
+Color: about to execute
+Color: done executing
+TBConcat: done updating input1
+TBConcat: about to update input2
+LRConcat: about to update input1
+Color: about to execute
+Color: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+LRConcat: about to update input1
+LRConcat: about to update input1
+Mirror: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+PNMreader: about to execute
+PNMreader: done executing
+LRConcat: done updating input2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Color: about to execute
+Color: done executing
+LRConcat: done updating input2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to update input2
+Color: about to execute
+Color: done executing
+TBConcat: done updating input2
+TBConcat: about to execute
+TBConcat: done executing

@@ -1,0 +1,8 @@
+7
+insert 4
+insert 5
+print
+extractMax
+build [1,2,3,4,5]
+print
+extractMax
